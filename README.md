@@ -12,14 +12,14 @@ Rscripts contain how we cleaned and modified the data.
 2. Assessing model.R
 3. Modeling and analysis.R
 
-- Report: 
+- report: 
 
 It contains the the report that is finally presented. 
 
 1. Final Project.rmd
 2. Final-Project.pdf
 
-- Data
+- Data:
 
 It contains the data that was used in the modeling and analysis. 
 
