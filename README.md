@@ -12,7 +12,7 @@ Rscripts contain how we cleaned and modified the data.
 2. Assessing model.R
 3. Modeling and analysis.R
 
-- report: 
+- Report: 
 
 It contains the the report that is finally presented. 
 
